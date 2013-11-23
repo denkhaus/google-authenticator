@@ -1,6 +1,6 @@
 {
   "name": "google-authenticator",
-  "description": "A simple Javascript warapper around the Node package notp. See https://npmjs.org/package/notp",
+  "description": "A simple Javascript wrapper around the Node package notp. See https://npmjs.org/package/notp",
   "homepage": "https://github.com/denkhaus/google-authenticator",
   "author": "Brain Loop aka denkhaus",
   "version": "0.0.1",
